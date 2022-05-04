@@ -1,0 +1,18 @@
+{
+  "name": "lab02",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "blessed-life": "./bin/runner.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test",
+    "bin": "bin"
+  },
+  "dependencies": {
+    "blessed": "^0.0.51",
+    "commander": "~2.0.0"
+  }
+}
